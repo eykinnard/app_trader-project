@@ -1,3 +1,5 @@
+This project was completed as group with Markus Matheny and William Prunty.
+
 App Trader
 Your team has been hired by a new company called App Trader to help them explore and gain insights from apps that are made available through the Apple App Store and Android Play Store.   
 
